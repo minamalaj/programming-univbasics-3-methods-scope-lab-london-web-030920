@@ -14,8 +14,8 @@ def link
  puts statement
 end
 
-def all_phrases (
+def all_phrases 
   puts phrase 
   puts $status
-  puts statement )
+  puts statement 
 end 
