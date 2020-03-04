@@ -18,4 +18,5 @@ def all_phrases
   puts phrase 
   puts $status
   puts statement 
+ returns all_phrases 
 end 
