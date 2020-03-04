@@ -15,8 +15,7 @@ def link
 end
 
 def all_phrases 
-  puts phrase 
-  puts $status
-  puts statement 
- returns all_phrases 
+  puts mario  
+  puts toadstool
+  puts link
 end 
